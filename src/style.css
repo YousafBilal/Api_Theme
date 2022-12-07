@@ -1,0 +1,15 @@
+input {
+    background-color: transparent;
+    color: white;
+    height: 6vh;
+    width: 50%;
+    margin-bottom: 10px;
+}
+
+input::placeholder {
+    color: white;
+}
+
+.ha {
+    font-family: 'Times New Roman', Times, serif;
+}
